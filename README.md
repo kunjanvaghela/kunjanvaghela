@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Kunjan 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+Tech+Enthusiast!;I+am+a+Coder!;I+am+a+Software+Engineer!;I+am+a+Tester!;I+am+an+AI+Engineer!)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunjan-vaghela/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kunjanvaghela.github.io/portfolio/)

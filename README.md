@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunjan-vaghela/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kunjanvaghela.github.io/portfolio/)
-[![Leetcode Badge](https://img.shields.io/badge/leetcode-black?style=flat-square&logo=leetcode&logoColor=B1361E)](https://leetcode.com/kunjanvaghela/https://twitter.com/edorado93)
+[![Leetcode Badge](https://img.shields.io/badge/leetcode-black?style=flat-square&logo=leetcode&logoColor=B1361E)](https://leetcode.com/kunjanvaghela/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kunjanvaghela/)
 
 My name is Kunjan, and I am a highly motivated and results-driven professional with a solid educational background and extensive experience in software engineering and testing. I am currently pursuing a Master of Science in Computer Science at Rutgers University, and I am working as a Student Operator at Laboratory of Computer Science Research (LCSR) at Rutgers.

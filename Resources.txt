@@ -1,0 +1,7 @@
+1. For Typing SVG creation: https://readme-typing-svg.herokuapp.com/demo/
+2. Github-readme-stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
+3. Profile View Counters:
+    - https://github.com/antonkomarev/github-profile-views-counter
+    - https://yhype.me/
+    - https://github.com/topics/view-counter
+    - https://github.com/topics/github-analytics

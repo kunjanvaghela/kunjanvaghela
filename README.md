@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunjanvaghela&show_icons=true&theme=dracula" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunjanvaghela&show_icons=true&theme=dracula&rank_icon=github" /> -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjanvaghela&layout=compact" />
